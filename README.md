@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Curso de WordPress — Do Zero ao Profissional
 
-* ***Conteúdo:***
+* ***Conteúdo do Curso:***
 
 * [ ] Introdução Geral.
 * [ ] Preparando o Ambiente.
