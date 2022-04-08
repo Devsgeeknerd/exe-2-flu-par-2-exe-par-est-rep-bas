@@ -23,6 +23,7 @@
 * [ ] WordPress Rest API.
 * [ ] Editor Gutenberg.
 * [ ] Single Page Application.
+* [ ] WooCommerce.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
