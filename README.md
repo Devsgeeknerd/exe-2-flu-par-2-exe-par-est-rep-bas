@@ -21,6 +21,7 @@
 * [ ] Criação de Temas Avançado.
 * [ ] jQuery.
 * [ ] WordPress Rest API.
+* [ ] Editor Gutenberg.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
