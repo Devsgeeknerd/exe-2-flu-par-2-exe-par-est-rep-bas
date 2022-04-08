@@ -1,5 +1,5 @@
 <!-- TITLE -->
-#
+# Curso de WordPress — Do Zero ao Profissional
 
 <!-- * ***Conteúdo:*** -->
 
