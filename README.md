@@ -12,6 +12,7 @@
 * [ ] PHP.
 * [ ] Versionamento de código.
 * [ ] Criação de Temas Básico.
+* [ ] Criação de Temas Intermediário.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
