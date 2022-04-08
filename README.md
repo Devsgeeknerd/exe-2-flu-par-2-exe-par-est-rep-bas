@@ -16,6 +16,7 @@
 * [ ] Criação de Plugins Básico.
 * [ ] Criação de Plugins Intermediário.
 * [ ] Criação de Plugins Avançado.
+* [ ] Segurança Para WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
