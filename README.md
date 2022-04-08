@@ -8,6 +8,7 @@
 * [ ] Conhecendo o WordPress.
 * [ ] HTML & CSS.
 * [ ] HTML 5 & CSS 3.
+* [ ] JavaScript.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
