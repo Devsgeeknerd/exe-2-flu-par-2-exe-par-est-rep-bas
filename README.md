@@ -17,6 +17,7 @@
 * [ ] Criação de Plugins Intermediário.
 * [ ] Criação de Plugins Avançado.
 * [ ] Segurança Para WordPress.
+* [ ] Bootstrap.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
