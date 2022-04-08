@@ -18,6 +18,7 @@
 * [ ] Criação de Plugins Avançado.
 * [ ] Segurança Para WordPress.
 * [ ] Bootstrap.
+* [ ] Criação de Temas Avançado.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
