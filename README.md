@@ -6,6 +6,7 @@
 * [ ] Introdução Geral.
 * [ ] Preparando o Ambiente.
 * [ ] Conhecendo o WordPress.
+* [ ] HTML & CSS.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
