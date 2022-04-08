@@ -4,6 +4,7 @@
 * ***Conteúdo:***
 
 * [ ] Introdução Geral.
+* [ ] Preparando o Ambiente.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
