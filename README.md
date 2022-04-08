@@ -10,6 +10,7 @@
 * [ ] HTML 5 & CSS 3.
 * [ ] JavaScript.
 * [ ] PHP.
+* [ ] Versionamento de código.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
