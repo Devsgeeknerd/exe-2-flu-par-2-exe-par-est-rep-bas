@@ -22,6 +22,7 @@
 * [ ] jQuery.
 * [ ] WordPress Rest API.
 * [ ] Editor Gutenberg.
+* [ ] Single Page Application.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
