@@ -25,6 +25,7 @@
 * [ ] Single Page Application.
 * [ ] WooCommerce.
 * [ ] Produtividade.
+* [ ] Vendas.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
