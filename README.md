@@ -15,6 +15,7 @@
 * [ ] Criação de Temas Intermediário.
 * [ ] Criação de Plugins Básico.
 * [ ] Criação de Plugins Intermediário.
+* [ ] Criação de Plugins Avançado.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
