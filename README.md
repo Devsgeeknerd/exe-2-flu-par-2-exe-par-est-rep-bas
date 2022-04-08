@@ -20,6 +20,7 @@
 * [ ] Bootstrap.
 * [ ] Criação de Temas Avançado.
 * [ ] jQuery.
+* [ ] WordPress Rest API.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
