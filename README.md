@@ -19,6 +19,7 @@
 * [ ] Segurança Para WordPress.
 * [ ] Bootstrap.
 * [ ] Criação de Temas Avançado.
+* [ ] jQuery.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
