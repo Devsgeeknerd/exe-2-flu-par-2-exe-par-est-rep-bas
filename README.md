@@ -13,6 +13,7 @@
 * [ ] Versionamento de código.
 * [ ] Criação de Temas Básico.
 * [ ] Criação de Temas Intermediário.
+* [ ] Criação de Plugins Básico.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
