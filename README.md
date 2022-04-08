@@ -5,6 +5,7 @@
 
 * [ ] Introdução Geral.
 * [ ] Preparando o Ambiente.
+* [ ] Conhecendo o WordPress.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
