@@ -11,6 +11,7 @@
 * [ ] JavaScript.
 * [ ] PHP.
 * [ ] Versionamento de código.
+* [ ] Criação de Temas Básico.
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
