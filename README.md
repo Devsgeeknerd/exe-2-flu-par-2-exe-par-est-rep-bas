@@ -3,7 +3,7 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] Introdução Geral.
+* [ ] [Introdução Geral.](https://github.com/Devsgeeknerd/int-ger-wp-zp)
 * [ ] Preparando o Ambiente.
 * [ ] Conhecendo o WordPress.
 * [ ] HTML & CSS.
